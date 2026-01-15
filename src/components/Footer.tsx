@@ -33,6 +33,7 @@ const Footer = React.memo(() => {
           >
             Technologies Used
           </h3>
+
           <div className="flex flex-wrap justify-center gap-6">
             {majorTech.map(({ icon: Icon, label }, idx) => (
               <div
@@ -58,9 +59,8 @@ const Footer = React.memo(() => {
         {/* Bottom Section */}
         <div className="flex flex-col md:flex-row items-center justify-center space-y-4 md:space-y-0">
           <p className={isDark ? "text-gray-400" : "text-gray-600"}>
-            © {new Date().getFullYear()} Dhruv. All rights reserved.
+            © {new Date().getFullYear()} Harshabad Singh. All rights reserved.
           </p>
-         
         </div>
       </div>
     </footer>

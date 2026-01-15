@@ -19,7 +19,7 @@ const Timeline = React.memo(() => {
         
         title: "Hackaccino_3.0 - Computer Society of India (CSI) ",
         organization: "Bennett University",
-        organizationLogo: "/images/experience/uni.webp",
+        organizationLogo: "public/images/experience/uni.webp",
         location: "Greater Noida, Uttar Pradesh",
         period: "June 2025",
         description: [

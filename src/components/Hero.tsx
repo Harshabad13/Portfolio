@@ -158,7 +158,7 @@ const Hero = React.memo(() => {
                       isDark ? "text-white" : "text-gray-900"
                     }`}
                   >
-                    I'm a
+                    
                   </span>
                   <span
                     className={`font-semibold inline-block bg-clip-text text-transparent bg-gradient-to-r ${
@@ -196,7 +196,7 @@ const Hero = React.memo(() => {
             >
               <div className="flex flex-wrap gap-4 justify-center pt-8">
                 <a
-                  href="https://docs.google.com/document/d/168xiuQHqglJGwfpi8v9Cg3qwwI6Xo3Fc/edit?usp=sharing&ouid=101201669773015192487&rtpof=true&sd=true"
+                  href="https://docs.google.com/document/d/1CYZ3tqJsbbMLxZiqdgR3AYB5CGCQ3YtI/edit"
                   target="_blank"
                   rel="noopener noreferrer"
                   className={`px-8 py-4 rounded-full transition-all duration-300 flex items-center space-x-2 shadow-lg hover:shadow-xl transform hover:scale-105 focus:outline-none focus-visible:ring-2 focus-visible:ring-offset-2 group ${

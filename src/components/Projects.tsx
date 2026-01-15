@@ -246,7 +246,7 @@ const Projects = React.memo(() => {
           }`}
         >
           <a
-            href="https://github.com/Dhruv-201004"
+            href="https://github.com/Harshabad13"
             target="_blank"
             rel="noopener noreferrer"
             className={`inline-flex items-center space-x-2 px-8 py-4 rounded-full border ${
