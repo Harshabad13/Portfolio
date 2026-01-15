@@ -196,7 +196,7 @@ const Hero = React.memo(() => {
             >
               <div className="flex flex-wrap gap-4 justify-center pt-8">
                 <a
-                  href="https://docs.google.com/document/d/1CYZ3tqJsbbMLxZiqdgR3AYB5CGCQ3YtI/edit"
+                  href="https://docs.google.com/document/d/1af188-30S0DVFVtm4Scx4GNlQepzp7zY/edit"
                   target="_blank"
                   rel="noopener noreferrer"
                   className={`px-8 py-4 rounded-full transition-all duration-300 flex items-center space-x-2 shadow-lg hover:shadow-xl transform hover:scale-105 focus:outline-none focus-visible:ring-2 focus-visible:ring-offset-2 group ${
